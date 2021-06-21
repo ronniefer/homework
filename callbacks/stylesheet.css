@@ -1,0 +1,12 @@
+body {
+    font-family: 'Alfa Slab One', cursive;
+	text-align: left;
+	color:#323232;
+	font-size: 1.2em;
+	padding-top: 10px;
+}
+
+li {
+	font-size: 1.5em;
+    opacity: 0.2;
+}
